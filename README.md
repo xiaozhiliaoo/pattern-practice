@@ -1,2 +1,3 @@
-#designpattern
-学习Java23种模式，J2EE模式，多线程并发模式以及各种Idiom。
+#pattern-practice
+
+Learn Java GOF pattern，POSA series, cloud design patterns, microservice patterns etc...

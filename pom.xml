@@ -32,6 +32,10 @@
         <module>gof</module>
         <!--Java与模式  阎宏-->
         <module>javapatterns</module>
+        <module>posa3</module>
+        <module>Cloud-Design-Patterns</module>
+        <module>Microservices-Pattern</module>
+        <module>Reactive-Design-Patterns</module>
     </modules>
 
 </project>
