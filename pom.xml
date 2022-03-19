@@ -36,6 +36,8 @@
         <module>Cloud-Design-Patterns</module>
         <module>Microservices-Pattern</module>
         <module>Reactive-Design-Patterns</module>
+        <module>poeaa</module>
+        <module>j2eepattern</module>
     </modules>
 
 </project>
